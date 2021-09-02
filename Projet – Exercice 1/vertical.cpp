@@ -19,7 +19,7 @@ int main() //la fonction main est la premiere chose qui se lance lorsque nous
 						// a moins de 5 chiffres, le code reponds simplement que le nombre n'a pas le nombre de chiffre requis
 
 	{
-		cout << "ce nombre n'as pas 5 chiffres"; // ici j'affiche que le nombre plutot demander n'a pas 5 chiffres
+		cout << "ce nombre n'a pas 5 chiffres"; // ici j'affiche que le nombre plutot demander n'a pas 5 chiffres
 	} 
 	else
 	{
@@ -28,3 +28,6 @@ int main() //la fonction main est la premiere chose qui se lance lorsque nous
 	return 0;
 
 };
+// lorsque 25 est rentrer le programme reponds "ce nombre n'a pas 5 chiffres"
+// lorsque 10000 est rentrer le programme reponds "10000"
+// lorsque 12345 est rentrer le programme reponds "12345"
